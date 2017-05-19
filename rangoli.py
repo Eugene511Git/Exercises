@@ -13,4 +13,4 @@ def generate_strings(rng, size):
     del alph
     print(string)
 
-print_rangoli(1)
+print_rangoli(10)
