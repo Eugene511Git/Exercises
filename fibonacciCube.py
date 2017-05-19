@@ -8,4 +8,4 @@ def fibonacci(n):
         a, b = b, a+b
     return seq
 
-print (list(map(cube, fibonacci(1))))
+print (list(map(cube, fibonacci(10))))
